@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
 
-echo "-----> Nothing to do."
-
+echo "-----> So sleepy."
+sleep 90
+echo "-----> That was a good nap!"
